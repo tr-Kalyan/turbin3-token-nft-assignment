@@ -17,6 +17,9 @@
     "typescript": "^7.0.2"
   },
   "dependencies": {
+    "@metaplex-foundation/mpl-core": "^1.10.0",
+    "@metaplex-foundation/umi": "^1.6.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.6.0",
     "@solana/spl-token": "^0.4.15",
     "@solana/web3.js": "^1.99.0",
     "dotenv": "^18.0.9"

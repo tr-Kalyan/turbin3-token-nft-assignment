@@ -1,0 +1,15 @@
+{
+  "name": "Kalyan's Turbin3 Builder NFT",
+  "description": "My first Metaplex Core NFT, created for the Turbin3 Builders Cohort on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/tr-Kalyan/turbin3-token-nft-assignment/main/assets/turbin3-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Cohort",
+      "value": "Turbin3 Q4"
+    },
+    {
+      "trait_type": "Stage",
+      "value": "Builder"
+    }
+  ]
+}
