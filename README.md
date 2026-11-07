@@ -73,7 +73,7 @@ npx tsx scripts/burn-nft.ts
 
 These scripts send real devnet transactions. Mint creation generates a new mint on each successful run, and minting tokens increases supply each time. Inspect transaction results before retrying after an error.
 
-NFT scripts use the asset address recorded in `nft-result.json`. The completed demonstration NFT has already been burned; its lifecycle cannot be rerun. To create your own demonstration, use a fresh working copy without the existing NFT result files.
+NFT scripts use the asset address recorded in `nft-result.json`. The completed demonstration NFT has already been burned, its lifecycle cannot be rerun. To create your own demonstration, use a fresh working copy without the existing NFT result files.
 
 ## Devnet addresses
 
@@ -123,6 +123,6 @@ Updating a metadata URI changes the on-chain reference. It does not upload or mo
 
 ## Limitations
 
-This is an educational devnet project. Earlier SPL scripts duplicate wallet setup; later scripts use shared configuration with devnet verification. Retry protection varies by script.
+This is an educational devnet project. Earlier SPL scripts duplicate wallet setup, later scripts use shared configuration with devnet verification. Retry protection varies by script.
 
-npm audit reported dependency vulnerabilities during setup. They have not yet been fully assessed or resolved; no forced dependency downgrade or major upgrade was applied.
+npm audit reported dependency vulnerabilities during setup. They have not yet been fully assessed or resolved, no forced dependency downgrade or major upgrade was applied.
