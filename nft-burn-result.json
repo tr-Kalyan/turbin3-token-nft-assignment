@@ -1,0 +1,11 @@
+{
+  "asset": "4jYekTUT5WpJ4cL7U45JfbskXGYdr21bmtoDRFPKU4QY",
+  "signature": "47Fy9jfbXFKLyAbjFzQe1gXuzmKjbTaQKJiWXQXPVxWuYxLRgQxAN6DGEyPBYtBpDCzB4SjZvy89J5oWoYmxj9MX",
+  "burnAuthority": "6AhnETMDpaiZPRCzbMjsFPaPLZRc9QTPUjLDP5rXijqK",
+  "payer": "6hMkxkhp9seNsG5bjDMGcgvmgVzsqUVyDBdCd4JFoEA",
+  "assetLamportsBefore": 3227200,
+  "assetLamportsAfter": 2155320,
+  "recoveredLamports": 1071880,
+  "remainingDataBytes": 1,
+  "verified": true
+}
