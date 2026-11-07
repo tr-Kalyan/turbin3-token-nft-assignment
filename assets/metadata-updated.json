@@ -1,0 +1,19 @@
+{
+  "name": "Kalyan's Turbin3 Builder NFT V2",
+  "description": "Updated metadata for my Turbin3 Core NFT after completing SPL token minting and transfers.",
+  "image": "https://raw.githubusercontent.com/tr-Kalyan/turbin3-token-nft-assignment/main/assets/turbin3-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Cohort",
+      "value": "Turbin3 Q4"
+    },
+    {
+      "trait_type": "Stage",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Version",
+      "value": "2"
+    }
+  ]
+}
