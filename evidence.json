@@ -1,0 +1,15 @@
+{
+  "network": "devnet",
+  "splToken": {
+    "mint": "H2CYwdbsJjFABR2bLRqDSMTQvfYK2rieHQXerSPT7Hbr",
+    "decimals": 6,
+    "sender": "6hMkxkhp9seNsG5bjDMGcgvmgVzsqUVyDBdCd4JFoEA",
+    "recipient": "6AhnETMDpaiZPRCzbMjsFPaPLZRc9QTPUjLDP5rXijqK",
+    "senderATA": "BDvcZmjpXx7TJfkH992n5XXiacWiqUYn4CZHfAqXhREX",
+    "recipientATA": "E6tiQJGQrsDhbT9GhjkrJxEsYQYj2RXYCeA6Vk7RKFMX",
+    "mintTransaction": "Zj24e7889d59RpMunjt2RTfqJQubiqNvVkosQWjnf8RiKRPECwEw7iXTQgJokRXTgz4VMaQP5utGxQ6CbNaiF37",
+    "transferTransaction": "546PPmgEGJWcyTVucECF8fhtFhiHW9QMyPFfAwnEBbTzqp4Bpau8pKnbDnbWsDyER5yZYWyaXz5kDUvFSMcV2iTQ",
+    "senderBalanceBaseUnits": "950000000",
+    "recipientBalanceBaseUnits": "50000000"
+  }
+}
